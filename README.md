@@ -19,8 +19,15 @@
 
 ---
 
-У меня есть опыт работы с:
-https://github.com/QAMaslov/QAMaslov/blob/main/assets/icons8-figma-48.png  https://github.com/QAMaslov/QAMaslov/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-48.png
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-48.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+
+</div>
+
 
 
 my projects
