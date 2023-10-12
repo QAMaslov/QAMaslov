@@ -15,7 +15,7 @@
 
 ---
 
-[Мое резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
+### [Мое резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
 
 ---
 
@@ -23,9 +23,11 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-48.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-
+ <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/swagger-logo-300x300.jpeg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.png" title="Youtrack" alt="Youtack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-Terminal.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="40" height="40"/>&nbsp;
 </div>
 
 
