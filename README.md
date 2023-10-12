@@ -27,7 +27,7 @@
   <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-48.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/swagger-logo-300x300.jpeg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.png" title="Youtrack" alt="Youtack" width="45" height="45"/>&nbsp;
-  <img "https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-Terminal.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-Terminal.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="70" height="70"/>&nbsp;
 </div>
 
 
