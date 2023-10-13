@@ -23,12 +23,12 @@
 ## 🛠 Инструменты:
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/icons8-postman-is-the-only-complete-api-development-environment-48.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/swagger-logo-300x300.ico" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/charles-for-ios.ico" title="CharlesProxy" alt="CharlesProxy" width="40" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.ico" title="Youtrack" alt="Youtack" width="40" height="40"/>&nbsp; <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-logo.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="40" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio.ico" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Figma%20-icon.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/postman-icon.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/swagger-icon.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/CharlesProxy-icon.png" title="CharlesProxy" alt="CharlesProxy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.png" title="Youtrack" alt="Youtack" width="40" height="40"/>&nbsp; <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-logo.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio%20(1).png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
 
 ## Технологии:
