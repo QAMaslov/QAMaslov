@@ -31,7 +31,7 @@
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/postgreSQL%20-%20icon.jpg" title="postgreSQL" alt="AndroipostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
-## Технологии:
+## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/monitor-icon.png" title="monitor" alt="monitor" width="25" height="25"/>&nbsp;Технологии:
 
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/restapi.png" title="Rest" alt="rest" width="150" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/json-file%20symbol.png" title="json" alt="json" width="30" height="40"/>&nbsp;
@@ -41,7 +41,7 @@
 
 ---
 
-## Мои проекты 
+## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/project-icon.png" title="project" alt="project" width="25" height="25"/>&nbsp; Мои проекты 
 
 ### Проект 1
 
