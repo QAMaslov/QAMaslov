@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/cv%20-icon.png" title="CV" alt="CV" width="20" height="20"/>&nbsp; [Моё резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
+## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/cv%20-icon.png" title="CV" alt="CV" width="25" height="25"/>&nbsp; [Моё резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
 
 ---
 
