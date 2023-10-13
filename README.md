@@ -15,10 +15,9 @@
 
 ---
 
-## [Моё резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
+## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/cv%20-icon.png" title="CV" alt="CV" width="16" height="16"/>&nbsp; [Моё резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
 
 ---
-
 
 ## 🛠 Инструменты:
 
