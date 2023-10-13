@@ -28,7 +28,6 @@
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/swagger-logo-300x300.ico" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/charles-for-ios.ico" title="CharlesProxy" alt="CharlesProxy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.ico" title="Youtrack" alt="Youtack" width="45" height="45"/>&nbsp; <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-logo.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="45" height="45"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-logo.ico" title="Cygwin" alt="Sygwin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio.ico" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
 
@@ -42,7 +41,20 @@
 
 ---
 
-my projects
+### Мои проекты
+
+# Проект 1
+
+Тест-анализ и декомпозиция требований сервиса ЯндексМаршруты.
+Тест-дизайн: КЭ и ГЗ, тест-кейсы.
+
+# Проект 2
+
+Тестирование новой функциональности веб-сервиса ЯндексМаршруты.Составлена  тестовая документация, проведены проверки, заведены баг-репорты.
+
+# Пооект 3
+
+Тестирование API мобильного приложения ЯндексМетро.
 
 ---
 
