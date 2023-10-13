@@ -15,7 +15,7 @@
 
 ---
 
-## [Мое резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
+## [Моё резюме](https://github.com/QAMaslov/QAMaslov/blob/main/assets/DmitriiMaslov_QA_CV.pdf)
 
 ---
 
