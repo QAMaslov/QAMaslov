@@ -29,7 +29,7 @@
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/CharlesProxy-icon.png" title="CharlesProxy" alt="CharlesProxy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.png" title="Youtrack" alt="Youtack" width="40" height="40"/>&nbsp; <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-logo.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio%20(1).png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio%20(1).png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/postgreSQL%20-%20icon.jpg" title="postgreSQL" alt="AndroipostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
 ## Технологии:
@@ -46,7 +46,7 @@
 
 ### Проект 1
 
-Тест-анализ и декомпозиция требований сервиса ЯндексМаршруты.
+Тест-анализ, декомпозиция и визуализация требований сервиса ЯндексМаршруты.
 Тест-дизайн: КЭ и ГЗ, тест-кейсы.
 
 ### Проект 2
@@ -55,9 +55,14 @@
 
 ### Проект 3
 
-Тестирование мобильного приложения ЯндексМетро.
-Тестирование новой функциональности бэкенда сервиса Яндекс.Прилавка
+Тестирование изменений в мобильном приложении ЯндексМетро. 
+Составлен чек-лист,проведены проверки, заведены баг-репорты.
 
+### Проект 4
+
+Тестирование новой функциональности бэкенда сервиса ЯндексПрилавок.Составлен чек-лист,проведены проверки, заведены баг-репорты.
+
+### Прооект 5
 ---
 
-### follow me
+follow me
