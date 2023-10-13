@@ -29,6 +29,7 @@
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/CharlesProxy-icon.png" title="CharlesProxy" alt="CharlesProxy" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/youtrack-icon.png" title="Youtrack" alt="Youtack" width="40" height="40"/>&nbsp; <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/Cygwin-logo.ico" title="Cygwin-Terminal" alt="Cygwin-Terminal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio%20(1).png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/android-studio%20(1).png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
 
 ## Технологии:
@@ -54,8 +55,9 @@
 
 ### Проект 3
 
-Тестирование API мобильного приложения ЯндексМетро.
+Тестирование мобильного приложения ЯндексМетро.
+Тестирование новой функциональности бэкенда сервиса Яндекс.Прилавка
 
 ---
 
-follow me
+### follow me
