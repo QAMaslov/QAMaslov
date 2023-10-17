@@ -65,6 +65,17 @@
 ---
 
 follow me
+
+### 🤝 Я в социальных сетях:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/dmitriy-maslov/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/mitia_maslov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 <div id="couter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Dmitrii-Maslov&style=flat-square&color=blue" alt=""/>
 </div>
