@@ -54,9 +54,20 @@
 
 [Тест-кейсы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTemKwDWBftCNq1om3ZcAmMzbVHYNkkIFvJMwXga0MWAmU2FEuUBI9knAqyM1L9CZkgO31D2vB-3UIf/pubhtml?gid=1058266973&single=true)
 
+[Тест-кейсы и тестирование: логика кнопки «Забронировать»](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1567345705&single=true)
+
+[Тест-кейсы и тестирование: логика функциональности бронирования](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=94813143&single=true)
+
+[Чек-лист и результаты выполнения тестов: тестирование нового вида транспорта Аэротакси](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1396138851&single=true)
+
+
 ### Проект 2
 
 Тестирование новой функциональности веб-сервиса ЯндексМаршруты.Составлена  тестовая документация, проведены проверки, заведены баг-репорты.
+
+[Чек-лист и результаты выполнения тестов: тестирование вёрстки](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=899462569&single=true)
+
+[Чек-лист и результаты выполнения тестов: тестирование окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1540435533&single=true)
 
 ### Проект 3
 
