@@ -249,14 +249,13 @@ SELECT COUNT(vehicle_id) AS cnt, company_name AS company_name FROM cabs GROUP BY
  
 <summary>Ответ</summary>
 
-Запрос, который выводит список компаний с числом автомобилей меньше 100
+Запрос, который выводит необходимые данные
 
 ```javascript
 
-SELECT COUNT(vehicle_id) AS cnt, company_name AS company_name FROM cabs GROUP BY company_name HAVING COUNT(vehicle_id)<100 ORDER BY cnt;
+SELECT ts, CASE WHEN description LIKE '%rain%' THEN 'Bad'  WHEN description LIKE '%storm%' THEN 'Bad' ELSE 'Good' END AS weather_conditions FROM weather_records WHERE ts BETWEEN '2017-11-05 00:00' AND '2017-11-06 00:00';
 
 ```
-
 
 ---
 
