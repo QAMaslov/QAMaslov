@@ -143,6 +143,31 @@
 
 </details>
 
+<details>
+
+<summary>Ответ</summary>
+
+* Команды, которые создают директории bug1 и events:
+
+```javascript
+
+mkdir bug1
+mkdir bug1/events
+
+  ```
+  
+* Команда, которой выбираешь запросы за указанный период. Это те запросы, которыми ты отбираешь логи в файл main.txt:
+
+```javascript
+
+grep -R "3[01].12.2019:21:3." ~/logs/2019/12 > ~/bug1/main.txt
+Команды, которыми ты кладешь логи в файлы 400.txt и 500.txt из main.txt:
+grep -w "400" ~/bug1/main.txt > ~/bug1/events/400.txt
+grep -w "500" ~/bug1/main.txt > ~/bug1/events/500.txt
+
+```
+
+</details>
 
 ---
 
