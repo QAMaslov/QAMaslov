@@ -75,6 +75,10 @@
 Тестирование изменений в мобильном приложении ЯндексМетро. 
 Составлен чек-лист,проведены проверки, заведены баг-репорты.
 
+[Чек-лист и результаты выполнения тестов мобильного приложения Яндекс.Метро](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYQqQyqeEAxZqb1A-TnRLVEIZw2zyOFMCpReSC4qOS-4tSbUZBq53fTMrZFV8vSmhtYCNoITKOqFhd/pubhtml?gid=857523888&single=true)
+
+[Чек-лист и результаты выполнения тестов API Яндекс.Прилавок](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYQqQyqeEAxZqb1A-TnRLVEIZw2zyOFMCpReSC4qOS-4tSbUZBq53fTMrZFV8vSmhtYCNoITKOqFhd/pubhtml?gid=2006427015&single=true)
+
 ### Проект 4
 
 Тестирование новой функциональности бэкенда сервиса ЯндексПрилавок.Составлен чек-лист,проведены проверки, заведены баг-репорты.
