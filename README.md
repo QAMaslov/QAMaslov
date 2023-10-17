@@ -161,7 +161,11 @@ mkdir bug1/events
 ```javascript
 
 grep -R "3[01].12.2019:21:3." ~/logs/2019/12 > ~/bug1/main.txt
-Команды, которыми ты кладешь логи в файлы 400.txt и 500.txt из main.txt:
+
+```
+* Команды, которыми ты кладешь логи в файлы 400.txt и 500.txt из main.txt:
+
+```javascript
 grep -w "400" ~/bug1/main.txt > ~/bug1/events/400.txt
 grep -w "500" ~/bug1/main.txt > ~/bug1/events/500.txt
 
