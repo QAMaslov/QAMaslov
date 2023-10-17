@@ -256,6 +256,36 @@ SELECT COUNT(vehicle_id) AS cnt, company_name AS company_name FROM cabs GROUP BY
 SELECT ts, CASE WHEN description LIKE '%rain%' THEN 'Bad'  WHEN description LIKE '%storm%' THEN 'Bad' ELSE 'Good' END AS weather_conditions FROM weather_records WHERE ts BETWEEN '2017-11-05 00:00' AND '2017-11-06 00:00';
 
 ```
+</details>
+
+--
+
+<details>
+ 
+ <summary>Задание 4</summary>
+
+После обновления ПО таксопарки стали сообщать, что прибыль, которую они получают, не сходится с данными, которые отдаёт приложение. Разработка предполагает, что проблема может быть в данных о количестве поездок. 
+Чтобы определить, есть ли баг, нужно получить выборку с количеством поездок каждого таксопарка за 15 и 16 ноября 2017 года. 
+Выведи поле **company_name**. Поле с числом поездок назови **trips_amount** и выведи его.
+Результаты, полученные в поле **trips_amount**, отсортируй по убыванию.
+Подсказка: чтобы решить задачу, соедини таблицы **cabs** и **trips**. Примени агрегирующие функции с группировкой. Не забудь написать конструкцию с условием.
+В ответе приложи запрос, которым удалось решить задачу.
+
+</details>
+
+<details>
+ 
+<summary>Ответ</summary>
+
+Запрос, который выводит необходимые данные:
+
+```javascript
+
+SELECT cabs.company_name AS company_name, COUNT (trips.trip_id) AS trips_amount FROM cabs LEFT JOIN trips ON trips.cab_id=cabs.cab_id WHERE trips.start_ts BETWEEN '2017-11-15 00:00:00' AND '2017-11-16 23:59:59' GROUP BY cabs.company_name ORDER BY trips_amount;
+
+```
+
+</details>
 
 ---
 
