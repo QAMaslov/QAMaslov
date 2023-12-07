@@ -43,6 +43,11 @@
 
 ## Моя практика
 
+MirPay
+В рамках crowdtesting проекта проводил исследовательское тестирование  функционала мобильного приложения Mir Pay на базе Android. Тестирование - это искусство обнаружения ошибок , а исследовательское тестирование, это искусство без границ , можно придумывать любые сценарии.
+
+[Сертификат участника](https://github.com/QAMaslov/QAMaslov/blob/main/assets/CrowdTesting%20Certificate.pdf)
+
 ---
 
 ## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/project-icon.png" title="project" alt="project" width="25" height="25"/>&nbsp; Мои проекты 
