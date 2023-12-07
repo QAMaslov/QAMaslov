@@ -43,9 +43,7 @@
 
 ## Моя практика
 
-# MirPay <div>
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/mirpay.png" title="MIRPay" alt="MIRPay" width="50" height="40"/>&nbsp;
-</div>
 
 В рамках crowdtesting проекта проводил исследовательское тестирование  функционала мобильного приложения Mir Pay на базе Android. Тестирование - это искусство обнаружения ошибок , а исследовательское тестирование, это искусство без границ , можно придумывать любые сценарии.
 
