@@ -43,8 +43,7 @@
 
 ## Моя практика
 
-# MirPay 
-<div>
+# MirPay <div>
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/mirpay.png" title="MIRPay" alt="MIRPay" width="50" height="40"/>&nbsp;
 </div>
 
