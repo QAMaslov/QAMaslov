@@ -41,6 +41,10 @@
 
 ---
 
+Моя практика
+
+---
+
 ## <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/project-icon.png" title="project" alt="project" width="25" height="25"/>&nbsp; Мои проекты 
 
 ### Проект 1
