@@ -56,7 +56,7 @@
 ### Проект 1
 
 В первом проекте мной был проведен тест-анализ и спроектированы проверки на часть требований к сервису ЯндексМаршруты.
-Декомпозиция требований и визуализацию я оформил в виде mindmap с помощью сервиса draw.io
+Декомпозиция требований и визуализацию я оформил в виде [mindmap](https://drive.google.com/file/d/1g7fIl0lCBd_83ygf1UE-hsKdlCr_8ZDZ/view?usp=sharing) с помощью сервиса draw.io
 
 [Mind map в большом разрешении](https://drive.google.com/file/d/1g7fIl0lCBd_83ygf1UE-hsKdlCr_8ZDZ/view?usp=sharing)
 
