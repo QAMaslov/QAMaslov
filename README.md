@@ -58,30 +58,25 @@
 В первом проекте мной был проведен тест-анализ и спроектированы проверки на часть требований к сервису ЯндексМаршруты.
 Декомпозиция требований и визуализацию я оформил в виде [mindmap](https://drive.google.com/file/d/1g7fIl0lCBd_83ygf1UE-hsKdlCr_8ZDZ/view?usp=sharing) с помощью сервиса draw.io
 
-[Mind map в большом разрешении](https://drive.google.com/file/d/1g7fIl0lCBd_83ygf1UE-hsKdlCr_8ZDZ/view?usp=sharing)
+Чтобы получить тестовые данные для будущих тест-кейсов, я подготовил [таблицу](https://docs.google.com/spreadsheets/d/1fkkDwduTw5C_eVV-ckDPPyMcrl6EtRgKkREQgaKg-Vg/edit?usp=sharing) с разбиением на КЭ и выделением ГЗ. 
 
-Чтобы получить тестовые данные для будущих тест-кейсов, я подготовил таблицу с разбиением на КЭ и выделением ГЗ. 
-
- [Таблица разбиения на классы эквивалентности и выделение граничных значений](https://docs.google.com/spreadsheets/d/1fkkDwduTw5C_eVV-ckDPPyMcrl6EtRgKkREQgaKg-Vg/edit?usp=sharing)
-
-На основе своих тестовых данных, разработал несколько тест-кейсов.
-
-[Тест-кейсы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTemKwDWBftCNq1om3ZcAmMzbVHYNkkIFvJMwXga0MWAmU2FEuUBI9knAqyM1L9CZkgO31D2vB-3UIf/pubhtml?gid=1058266973&single=true)
-
+На основе своих тестовых данных, разработал несколько [тест-кейсов](https://docs.google.com/spreadsheets/d/e/2PACX-1vTemKwDWBftCNq1om3ZcAmMzbVHYNkkIFvJMwXga0MWAmU2FEuUBI9knAqyM1L9CZkgO31D2vB-3UIf/pubhtml?gid=1058266973&single=true)
 
 ### Проект 2
 
-Тестирование новой функциональности веб-сервиса ЯндексМаршруты.Составлена  тестовая документация, проведены проверки, заведены баг-репорты.
+Второй проект посвящён тестированию новой функциональности веб-сервиса ЯндексМаршруты и состоит из четырех заданий.
 
-[Чек-лист и результаты выполнения тестов: тестирование вёрстки](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=899462569&single=true)
+1.	Провел анализ требований и макетов в Figma. Составил [чек-листы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=899462569&single=true) на вёрстку.
+По созданной документации, приложение было проверено на тестовом стенде в двух окружениях.
 
-[Чек-лист и результаты выполнения тестов: тестирование окон «Способ оплаты» и «Добавление карты»](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1540435533&single=true)
+2.	Подготовил [чек-лист](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1540435533&single=true) на логику работы окон приложения
 
-[Тест-кейсы и тестирование: логика кнопки «Забронировать»](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1567345705&single=true)
+3.	Подготовил [тест-кейсы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1567345705&single=true) на логику функциональности 
 
-[Тест-кейсы и тестирование: логика функциональности бронирования](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=94813143&single=true)
+4.	Cоставил [чек-лист](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1396138851&single=true) на основе требований к новой фиче приложения.  
 
-[Чек-лист и результаты выполнения тестов: тестирование нового вида транспорта Аэротакси](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1396138851&single=true)
+Просмотр ответов  бэкенда проводился с использованием DevTools. Перехват и подмена ответов в Charles с помощью MapLocal.
+По всей созданной документации, приложение было проверено на тестовом стенде. На обнаруженные ошибки в YouTrack заведены баг-репорты.
 
 
 ### Проект 3
