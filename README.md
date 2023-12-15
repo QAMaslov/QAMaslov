@@ -55,12 +55,16 @@
 
 ### Проект 1
 
-Тест-анализ, декомпозиция и визуализация требований сервиса ЯндексМаршруты.
-Тест-дизайн: КЭ и ГЗ, тест-кейсы.
+В первом проекте мной был проведен тест-анализ и спроектированы проверки на часть требований к сервису ЯндексМаршруты.
+Декомпозиция требований и визуализацию я оформил в виде mindmap с помощью сервиса draw.io
 
 [Mind map в большом разрешении](https://drive.google.com/file/d/1g7fIl0lCBd_83ygf1UE-hsKdlCr_8ZDZ/view?usp=sharing)
 
+Чтобы получить тестовые данные для будущих тест-кейсов, я подготовил таблицу с разбиением на КЭ и выделением ГЗ. 
+
  [Таблица разбиения на классы эквивалентности и выделение граничных значений](https://docs.google.com/spreadsheets/d/1fkkDwduTw5C_eVV-ckDPPyMcrl6EtRgKkREQgaKg-Vg/edit?usp=sharing)
+
+На основе своих тестовых данных, разработал несколько тест-кейсов.
 
 [Тест-кейсы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTemKwDWBftCNq1om3ZcAmMzbVHYNkkIFvJMwXga0MWAmU2FEuUBI9knAqyM1L9CZkgO31D2vB-3UIf/pubhtml?gid=1058266973&single=true)
 
