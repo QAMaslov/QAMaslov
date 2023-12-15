@@ -66,7 +66,7 @@
 
 Второй проект посвящён тестированию новой функциональности веб-сервиса **ЯндексМаршруты** и состоит из четырех заданий.
 
-1.	Провел анализ требований и макетов в Figma. Составил [чек-листы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=899462569&single=true) на вёрстку.
+1.	Провел анализ требований и макетов в **Figma**. Составил [чек-листы](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=899462569&single=true) на вёрстку.
 По созданной документации, приложение было проверено на тестовом стенде в двух окружениях.
 
 2.	Подготовил [чек-лист](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1540435533&single=true) на логику работы окон приложения
@@ -75,7 +75,7 @@
 
 4.	Cоставил [чек-лист](https://docs.google.com/spreadsheets/d/e/2PACX-1vTpPzeewbRw7YAWN2Z_YRM9gYsgKwKm4UpCBxCgvkfsdaWU3bjDEedamoL9sIzZHlXzlVg_wTL-Oj4d/pubhtml?gid=1396138851&single=true) на основе требований к новой фиче приложения.  
 
-Просмотр ответов  бэкенда проводился с использованием DevTools. [Перехват](https://github.com/QAMaslov/QAMaslov/blob/main/assets/Charles%20измененный%20запрос%20estimate.jpg) и [подмена](https://github.com/QAMaslov/QAMaslov/blob/main/assets/Charles%20измененный%20запрос%20estimate.jpg) ответов в Charles с помощью MapLocal.
+Просмотр ответов  бэкенда проводился с использованием **DevTools**. [Перехват](https://github.com/QAMaslov/QAMaslov/blob/main/assets/Charles%20измененный%20запрос%20estimate.jpg) и [подмена](https://github.com/QAMaslov/QAMaslov/blob/main/assets/Charles%20измененный%20запрос%20estimate.jpg) ответов в **Charles** с помощью MapLocal.
 По всей созданной документации, приложение было проверено на тестовом стенде. На обнаруженные ошибки в **YouTrack** заведены баг-репорты.
 
 ### Проект 3
