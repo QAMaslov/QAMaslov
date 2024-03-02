@@ -314,10 +314,10 @@ SELECT cabs.company_name AS company_name, COUNT (trips.trip_id) AS trips_amount 
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/dmitriy-maslov/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedIn" />
     </a>
     <a href="https://t.me/mitia_maslov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
   </div>
 <div id="couter" align="center">
