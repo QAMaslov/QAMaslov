@@ -38,7 +38,7 @@
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/json-file%20symbol.png" title="json" alt="json" width="30" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/xml%20file%20symbol.png" title="XML" alt="XML" width="30" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/sql-file-format-symbol.png" title="SQL" alt="SQL" width="30" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/html-css-icon.png" title= "html_css" alt="html_css" width="60" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/html-css-icon.png" title= "html_css" alt="html_css" width="65" height="40"/>&nbsp;
 </div>
 
 ---
