@@ -36,8 +36,9 @@
 
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/restapi.png" title="Rest" alt="rest" width="150" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/json-file%20symbol.png" title="json" alt="json" width="30" height="40"/>&nbsp;
-<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/sql-file-format-symbol.png" title="SQL" alt="SQL" width="30" height="40"/>&nbsp;
 <img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/xml%20file%20symbol.png" title="XML" alt="XML" width="30" height="40"/>&nbsp;
+<img src="https://github.com/QAMaslov/QAMaslov/blob/main/assets/sql-file-format-symbol.png" title="SQL" alt="SQL" width="30" height="40"/>&nbsp;
+<img src= "https://github.com/QAMaslov/QAMaslov/blob/main/assets/html%20css_icon.png" title= "html_css" alt="html_css" width="80" height="40"/>&nbsp;
 </div>
 
 ---
